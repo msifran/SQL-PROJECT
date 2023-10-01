@@ -136,6 +136,6 @@ Exploratory data analysis is done to answer the listed questions and aims of thi
 
 ## CODE :
 
-for the code of above questions go through the sql queries above or [click here]
+for the code of above questions go through the sql queries above or [click here](https://github.com/msifran/SQL-PROJECT/blob/main/WalmartSalesProject.sql)
 
  
